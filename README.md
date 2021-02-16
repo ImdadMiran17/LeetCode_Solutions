@@ -1,5 +1,5 @@
 # LeetCode_Solutions
 
-All the solutions of the platform LeetCode will be added in this repository. 
+All the solutions of the platform <b>LeetCode</b> will be added in this repository. 
 
 # Happy Coding
